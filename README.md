@@ -51,7 +51,7 @@ Since this project is designed for **Google Colab**, the setup is minimal.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://colab.research.google.com/drive/17iZ7F9hIZ5Da-e7X_pa-qD8cAZhgvN1w?usp=sharing]
+    https://colab.research.google.com/drive/17iZ7F9hIZ5Da-e7X_pa-qD8cAZhgvN1w?usp=sharing
     ```
 2.  **Open in Google Colab**
     * Upload the `Project_CV.ipynb` file to your Google Drive.
