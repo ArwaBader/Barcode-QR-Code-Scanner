@@ -47,13 +47,13 @@ The project workload was divided among the team members as follows:
 * **Batoul Nourallah**: Summarized the project findings in the Conclusion and outlined potential Future Work.
 
 ## ⚙️ Setup & Installation
-Since this project is designed for **Google Colab**, you can run it directly in the browser.
+Since this project is designed for **Google Colab**, you can run it directly in the browser without installing local software.
 
 1.  **Open the Notebook**
     * [Click here to open the Project in Google Colab](https://colab.research.google.com/drive/17iZ7F9hIZ5Da-e7X_pa-qD8cAZhgvN1w?usp=sharing)
 
 2.  **Install System Dependencies**
-    The first code cell in the notebook handles the installation of the required system libraries (`libzbar0`).
+    The first code cell in the notebook handles the installation of the required system libraries (`libzbar0`) which are not present by default in Colab.
     ```python
     !pip install pyzbar
     !apt-get install -y libzbar0
